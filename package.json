@@ -1,0 +1,23 @@
+{
+  "name": "expressjs_tutorial",
+  "version": "1.0.0",
+  "description": "Express Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=14 <15"
+  },
+  "type": "module",
+  "author": "Divyam Garg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^8.1.2",
+    "nodemailer": "^6.9.9",
+    "requests": "^0.3.0",
+    "validator": "^13.11.0"
+  }
+}
